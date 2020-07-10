@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, amigos! 👋
 
 <!--
 **take2rohit/take2rohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ I am Rohit Lal, a Computer Vision and Deep Learning enthusiast. I m on a mission
 - 💻 I'm highly interested in cutting-edge research on CV and DL especially in the domain of object detection and 3D-tracking. 
 - ⚡ Not impressed by my GitHub repos? Go checkout my [website](http://take2rohit.github.io/). I m sure you will like my work!
 - 👯 I’m ready to collaborate on some groundbreaking projects where I can use my knowledege constructively.
-- 📫 You can connect with me through E-mail ✉️: [take2rohit@gmail.com](mailto:take2rohit@gmail.com) or [LinkedIn](https://in.linkedin.com/in/rohit-lal)
+- 📫 You can connect with me through E-mail: [take2rohit@gmail.com](mailto:take2rohit@gmail.com) or [LinkedIn](https://in.linkedin.com/in/rohit-lal)
