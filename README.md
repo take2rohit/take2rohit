@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Rohit Lal and I am a Computer Vision and Deep Learning enthusiast. I m on a mission to revolutionize the way AI algorithms are being used today!
+I am Rohit Lal, a Computer Vision and Deep Learning enthusiast. I m on a mission to revolutionize the way AI algorithms are being used today!
 - 💻 I'm highly interested in cutting-edge research on CV and DL especially in the domain of object detection and 3D-tracking. 
 - ⚡ Not impressed by my GitHub repos? Go checkout my [website](http://take2rohit.github.io/). I m sure you will like my work!
 - 👯 I’m ready to collaborate on some groundbreaking projects where I can use my knowledege constructively.
