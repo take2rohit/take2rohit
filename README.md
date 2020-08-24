@@ -5,6 +5,7 @@ I am Rohit Lal, a Computer Vision, Deep Learning and an exuberant tech enthusias
 - ⚡ Not impressed by my GitHub repos? Go checkout my [website](http://take2rohit.github.io/). I m sure you will like my work!
 - 👯 I’m ready to collaborate on some groundbreaking projects where I can use my knowledege constructively.
 - 📫 You can connect with me through E-mail: [take2rohit@gmail.com](mailto:take2rohit@gmail.com) or [LinkedIn](https://in.linkedin.com/in/rohit-lal)
+
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=take2rohit&hide=stars&show_icons=true&count_private=true)
 
 ![makes-people-smile](https://img.shields.io/badge/MAKES%20PEOPLE-SMILE-orange?style=for-the-badge)
