@@ -14,6 +14,8 @@ I am Rohit Lal, a Computer Vision, Deep Learning and an exuberant tech enthusias
 
 ![makes-people-smile](https://img.shields.io/badge/MAKES%20PEOPLE-SMILE-orange?style=for-the-badge&logo=Ello)
 ![Vscode](https://img.shields.io/badge/VSCODE%20-Power%20User%20-gray.svg?colorA=655BE1&colorB=4F44D6&logo=visual-studio-code&style=for-the-badge)
+![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=take2rohit&repo=take2rohit&countColorcountColor&countColor=%237B1E7B)
+
 
 <!---
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
