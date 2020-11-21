@@ -1,4 +1,4 @@
-<h2> Hola Amigos! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://github.com/take2rohit/take2rohit/blob/master/img.png" width="300">
+<h2> Hola Amigos! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://github.com/take2rohit/take2rohit/blob/master/new_img.jpg" width="300">
 
 I am Rohit Lal, a Computer Vision, Deep Learning and an exuberant tech enthusiast. I'm on a mission to revolutionize the way AI algorithms are being used today!
 
