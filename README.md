@@ -7,7 +7,7 @@ I am Rohit Lal, a Computer Vision, Deep Learning and an exuberant tech enthusias
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=q2nc3QoAAAAJ&hl=en)
 
 - 💻 I'm highly interested in cutting-edge research on CV and DL especially in the domain of object detection and 3D-tracking. 
-- ⚡ Not impressed by my GitHub repos? Go checkout my [website](http://take2rohit.github.io/). I m sure you will like my work!
+- ⚡ Not impressed by my GitHub repos? Go checkout my [website](http://take2rohit.github.io/).
 - 👯 I’m ready to collaborate on some groundbreaking projects where I can use my knowledege constructively.
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=take2rohit&hide=stars&show_icons=true&count_private=true)
