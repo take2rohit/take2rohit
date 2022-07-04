@@ -1,4 +1,4 @@
-<h2> Hola Amigos! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right' src="https://github.com/take2rohit/take2rohit/blob/master/new_img.jpg" width="300">
+<h2> Hola Amigos!</h2><img  align='right' src="https://github.com/take2rohit/take2rohit/blob/master/new_img.jpg" width="300">
 
 I am Rohit Lal, a Computer Vision, Deep Learning and an exuberant tech enthusiast!
 
@@ -8,7 +8,6 @@ I am Rohit Lal, a Computer Vision, Deep Learning and an exuberant tech enthusias
 
 - 💻 I'm highly interested in cutting-edge research on CV and DL especially in field of Unsupervised Learning.
 - ⚡ Go checkout my [website](http://take2rohit.github.io/).
-- 👯 I’m ready to collaborate on some groundbreaking projects.
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=take2rohit&hide=stars&show_icons=true&count_private=true)
 
